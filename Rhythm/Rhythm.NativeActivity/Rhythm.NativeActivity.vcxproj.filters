@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Fps.cpp" />
+    <ClCompile Include="Time.cpp" />
+    <ClCompile Include="Sound.cpp" />
+    <ClCompile Include="Title.cpp" />
+    <ClCompile Include="SelectMusic.cpp" />
+    <ClCompile Include="Config.cpp" />
+    <ClCompile Include="Tap.cpp" />
+    <ClCompile Include="Line.cpp" />
+    <ClCompile Include="NotesData.cpp" />
+    <ClCompile Include="TapNotes.cpp" />
+    <ClCompile Include="HoldNotes.cpp" />
+    <ClCompile Include="MusicStartButton.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="Fps.h" />
+    <ClInclude Include="Time.h" />
+    <ClInclude Include="Sound.h" />
+    <ClInclude Include="Title.h" />
+    <ClInclude Include="SelectMusic.h" />
+    <ClInclude Include="Config.h" />
+    <ClInclude Include="Tap.h" />
+    <ClInclude Include="Line.h" />
+    <ClInclude Include="NotesData.h" />
+    <ClInclude Include="TapNotes.h" />
+    <ClInclude Include="HoldNotes.h" />
+    <ClInclude Include="MusicStartButton.h" />
+  </ItemGroup>
+</Project>
