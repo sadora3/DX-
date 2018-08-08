@@ -10,6 +10,7 @@ cTitle Title;	//タイトルオブジェクト
 cConfig Config;	//設定オブジェクト
 cMusicStartButton MusicStartButton;		//曲再生ボタン
 
+
 //エントリーポイント
 int android_main() {
 	SetGraphMode(1280, 720, 32);			//画面解像度の設定
